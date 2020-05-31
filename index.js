@@ -1,3 +1,3 @@
 'use strict'
 
-module.exports = require('./totp')
+module.exports = require('./lib/totp')

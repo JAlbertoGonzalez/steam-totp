@@ -1,5 +1,5 @@
 const { expect } = require('chai')
-const { GetCode } = require('../totp')
+const { GetCode } = require('../lib/totp')
 const os = require('os')
 
 // Generated randomly
